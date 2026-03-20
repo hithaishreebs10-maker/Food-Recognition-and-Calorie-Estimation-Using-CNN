@@ -47,12 +47,6 @@ Link: https://www.kaggle.com/datasets/dansbecker/food-101
 
 ---
 
-##  Installation
-
-1. Clone the repository:
-```bash
-git clone <your-repo-link>
-cd food-recognition
 
 ##  Output
 
